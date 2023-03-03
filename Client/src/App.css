@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.app__header {
+  background-color: #ffffff;
+  flex-direction: column;
+ 
+ 
+}
+.app__headerImage{
+  object-fit: contain;
+  width: 10%;
+  Height: 10%;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
